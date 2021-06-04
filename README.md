@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bengineerphan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in system engineering at Oneweb 
+- 🌱 I’m currently learning to simulate, analyse and improve blockage mitigation solution for marinetime internet satellite communication
+- 💞️ I’m looking to collaborate on Chimera
 - 📫 How to reach me: bphan@oneweb.net
 
 <!---
